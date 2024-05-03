@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Boran DEMİR
 - 💻 I'm currently a Computer Engineer Student
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Flutter,Kotlin
+- 👀 I’m interested in Data Science and ML 
+- 🌱 I’m currently learning Python, Numpy, Pandas
 - 📫 How to reach me borandemir50@gmail.com
